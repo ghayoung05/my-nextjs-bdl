@@ -3,7 +3,7 @@
 Clone the project
 
 bash
-  git clone https://github.com/milen06/my-nextjs-bdl
+  git clone https://github.com/ghayoung05/my-nextjs-bdl
 
 
 Go to the project directory
@@ -39,3 +39,4 @@ Start the server
 
 bash
   npm run dev
+
